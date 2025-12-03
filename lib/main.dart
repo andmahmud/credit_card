@@ -112,7 +112,7 @@ class MySampleState extends State<MySample> {
                       expiryDate: expiryDate,
                       cardHolderName: cardHolderName,
                       cvvCode: cvvCode,
-                      bankName: 'Axis Bank',
+                      bankName: 'UCB Bank',
                       frontCardBorder: useGlassMorphism
                           ? null
                           : Border.all(color: Colors.grey),
